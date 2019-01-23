@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DieCutLabel Version="8.0" Units="twips">
+	<PaperOrientation>Landscape</PaperOrientation>
+	<Id>LargeAddress</Id>
+	<IsOutlined>false</IsOutlined>
+	<PaperName>30321 Large Address</PaperName>
+	<DrawCommands>
+		<RoundRectangle X="0" Y="0" Width="2025" Height="5020" Rx="270" Ry="270" />
+	</DrawCommands>
+	<ObjectInfo>
+		<AddressObject>
+			<Name>Address</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName />
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>True</IsVariable>
+			<GroupID>-1</GroupID>
+			<IsOutlined>False</IsOutlined>
+			<HorizontalAlignment>Left</HorizontalAlignment>
+			<VerticalAlignment>Top</VerticalAlignment>
+			<TextFitMode>ShrinkToFit</TextFitMode>
+			<UseFullFontHeight>True</UseFullFontHeight>
+			<Verticalized>False</Verticalized>
+			<StyledText>
+				<Element>
+					<String xml:space="preserve">ThingySticks.com
+</String>
+					<Attributes>
+						<Font Family="Arial" Size="24" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
+					</Attributes>
+				</Element>
+				<Element>
+					<String xml:space="preserve">Wide Feather Proto
+</String>
+					<Attributes>
+						<Font Family="Arial" Size="24" Bold="True" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
+					</Attributes>
+				</Element>
+				<Element>
+					<String xml:space="preserve">Version: 1
+</String>
+					<Attributes>
+						<Font Family="Arial" Size="12" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
+					</Attributes>
+				</Element>
+				<Element>
+					<String xml:space="preserve">http://thingysticks.com/WideFeather</String>
+					<Attributes>
+						<Font Family="Arial" Size="8" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
+					</Attributes>
+				</Element>
+			</StyledText>
+			<ShowBarcodeFor9DigitZipOnly>True</ShowBarcodeFor9DigitZipOnly>
+			<BarcodePosition>Suppress</BarcodePosition>
+			<LineFonts>
+				<Font Family="Arial" Size="24" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+				<Font Family="Arial" Size="24" Bold="True" Italic="False" Underline="False" Strikeout="False" />
+				<Font Family="Arial" Size="12" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+				<Font Family="Arial" Size="8" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+			</LineFonts>
+		</AddressObject>
+		<Bounds X="322" Y="57.9999999999999" Width="4613" Height="1882" />
+	</ObjectInfo>
+	<ObjectInfo>
+		<ImageObject>
+			<Name>GRAPHIC</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName />
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>False</IsVariable>
+			<GroupID>-1</GroupID>
+			<IsOutlined>False</IsOutlined>
+			<Image>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</Image>
+			<ScaleMode>Uniform</ScaleMode>
+			<BorderWidth>0</BorderWidth>
+			<BorderColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<HorizontalAlignment>Center</HorizontalAlignment>
+			<VerticalAlignment>Center</VerticalAlignment>
+		</ImageObject>
+		<Bounds X="3510" Y="907.086627796303" Width="1425" Height="892" />
+	</ObjectInfo>
+</DieCutLabel>
