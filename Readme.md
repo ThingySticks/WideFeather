@@ -6,7 +6,7 @@ Wide format prototype board for Feather based boards..
 ## V1
 
 
-###Features:
+### Features:
 
 
 * USB power in via A Connector on right hand edge.
